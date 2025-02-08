@@ -1,0 +1,2 @@
+# Climate-Change-Impacts-on-Solar-PV-Efficiency-and-Power-Generation-in-India
+This research analyzes NASA NEX-GDDP climate data to assess the effects of rising temperatures on solar PV efficiency in India under SSP126 and SSP585 scenarios. Northern regions like Jammu and Kashmir maintain stable efficiency, while southern areas face declines of 0.3%-0.5% per degree Celsius rise, highlighting the need for adaptive strategies.
