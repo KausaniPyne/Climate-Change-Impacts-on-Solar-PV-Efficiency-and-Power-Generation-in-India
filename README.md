@@ -16,6 +16,6 @@ Those climate risks necessitate adaptive strategies to ensure the reliability an
 [click here](https://drive.google.com/file/d/1BsHcgKF_TjiELdYGF4lFCfCQ-cjd96f3/view?usp=drive_link)
 # Research Paper
 [click here](https://drive.google.com/file/d/13BUcyy2PmSA9wz9dyWiMZFtK1nMAhusX/view?usp=drive_link)
-# Research Notebooks Used
+# JuypterNotebooks Consisting the codes used
 [click here](https://drive.google.com/file/d/1r7lzgJN0zQHzcY8_bB_06DjMnT2jkVvw/view?usp=drive_link)
 
