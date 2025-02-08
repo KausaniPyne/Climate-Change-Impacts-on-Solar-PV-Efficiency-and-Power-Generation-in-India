@@ -13,5 +13,5 @@ climate risks,fast-increasing temperature was found to be the key factor in effi
 Those climate risks necessitate adaptive strategies to ensure the reliability and sustainability of solar power in the face of a changing climate, where first and foremost is to understand how warming climate will affect solar PV efficiency and what are the associated impacts on solar PV production in India. This research will assess how climate change affects solar PV efficiency using modeling and simulations to analyze temperature, humidity, and irradiance effects. The findings will inform energy management strategies and enhance the resilience of renewable systems amid climate challenges.
 
 # Research Proposal
-click here(https://drive.google.com/drive/folders/1uwIs7AB7fmvVnofZJtk_Qom7ivyYxz7O)
+click here[(https://drive.google.com/drive/folders/1uwIs7AB7fmvVnofZJtk_Qom7ivyYxz7O)]
 
